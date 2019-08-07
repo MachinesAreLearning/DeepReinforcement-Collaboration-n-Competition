@@ -53,5 +53,6 @@ model.py contains the neural network code that is used by the agent.
 ## Results
 The figure below show the performance and results of the model. The model performs well. The agent takes 490 episodes to achieve the goal.
 
+
 <img src="images/result.png" width="70%" align="top-left" alt="" title="Results Graph" />
 
